@@ -11,8 +11,11 @@ You can view the working demo here: (https://prakash-k-prajapati.github.io/Weath
 
 ## Features
 -Global Weather Data: Access current weather conditions and forecasts for any city worldwide.
+
 -OpenWeatherMap Integration: Utilizes the OpenWeatherMap API for accurate and up-to-date weather information.
+
 -Current Weather Updates: Provides real-time updates on temperature, humidity, wind speed, and atmospheric pressure.
+
 -5-Day Weather Forecast: Displays a detailed forecast for the next five days, helping users plan ahead.
 
 ## Tools/Languages
