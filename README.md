@@ -7,7 +7,7 @@ Explore weather conditions worldwide with our intuitive weather app. Powered by 
 ![screenshot](img/screenshot.png)
 
 ## Demo
-You can view the working demo here: [https://stanulilic.github.io/vanillajs-weatherapp/](https://stanulilic.github.io/vanillajs-weatherapp/)
+You can view the working demo here: (https://prakash-k-prajapati.github.io/Weather_Booth/)
 
 ## Features
 -Global Weather Data: Access current weather conditions and forecasts for any city worldwide.
