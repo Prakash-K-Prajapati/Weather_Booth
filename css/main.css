@@ -4,7 +4,7 @@ html {
 body {
     color: #fff;
     font-size: 1rem;
-    background: #32ccbc;
+    background:  #ffbd00 ;
     font-family: "roboto", Arial, Helvetica, sans-serif;
 }
 
@@ -145,7 +145,7 @@ input {
     flex-wrap: wrap;
 }
 .forecast__day {
-    background: #4a9a8f;
+    background:  #6907ff  ;
     text-align: center;
     /* padding: 1rem 5rem; */
     margin-bottom: .8rem;
